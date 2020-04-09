@@ -9956,6 +9956,8 @@ h3 {
 .page-section .page-section-heading {
   font-size: 2.25rem;
   line-height: 2rem;
+  padding-bottom: 40px;
+  margin: 0px;
 }
 @media (min-width: 992px) {
   .page-section .page-section-heading {

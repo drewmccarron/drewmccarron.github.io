@@ -371,6 +371,17 @@ h1, .h1 {
   font-size: 2.5rem;
 }
 
+.carousel-text {
+  margin-bottom: 7.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  text-shadow:
+    -0.7px -0.7px 0 #000,
+     0.7px -0.7px 0 #000,
+    -0.7px  0.7px 0 #000,
+     0.7px  0.7px 0 #000;
+}
+
 h2, .h2 {
   font-size: 2rem;
 }

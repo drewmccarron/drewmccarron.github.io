@@ -372,14 +372,14 @@ h1, .h1 {
 }
 
 .carousel-text {
-  margin-bottom: 7.5rem;
-  font-size: 3rem;
+  margin-bottom: 9.5rem;
+  font-size: 4.5rem;
   font-weight: 500;
   text-shadow:
-    -0.7px -0.7px 0 #000,
-     0.7px -0.7px 0 #000,
-    -0.7px  0.7px 0 #000,
-     0.7px  0.7px 0 #000;
+    -0.8px -0.8px 0 #000,
+     0.8px -0.8px 0 #000,
+    -0.8px  0.8px 0 #000,
+     0.8px  0.8px 0 #000;
 }
 
 h2, .h2 {
